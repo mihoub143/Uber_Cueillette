@@ -31,7 +31,7 @@
 <h1>Trouvez des ouvriers agricoles rapidement</h1>
 
 <p>
-AgriConnect est une plateforme innovante qui met en relation les
+Uber-Cueillette est une plateforme innovante qui met en relation les
 agriculteurs et les ouvriers agricoles afin de faciliter les périodes de
 récolte. En quelques clics, trouvez la main-d'œuvre nécessaire pour vos
 champs ou découvrez des opportunités de travail près de chez vous.
